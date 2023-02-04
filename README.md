@@ -3,4 +3,4 @@
 - Library: tensorflow lite, python-coral, PiCamera2
 - Model: teachable machine (Quantized Coral TensorLite)
 
-The folder object_detect contains some images of objects, codes(.py) and model files to run. 
+The folder object_detect contains some images of objects, codes(run_detect.py) and model files to run. 
